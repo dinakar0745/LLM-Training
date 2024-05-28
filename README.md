@@ -10,7 +10,7 @@ This repository contains a Python script that utilizes the LangChain library to 
 - Installation
 
 To install the required dependencies, use command:
-    ```bash
+    ```
     pip install -r requirments.txt
     ```
 
