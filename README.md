@@ -11,7 +11,7 @@ This repository contains a Python script that utilizes the LangChain library to 
 
 To install the required dependencies, use command:
     ```bash
-    pip install langchain langchain_community langchain_core
+    pip install -r requirments.txt
     ```
 
 ## Usage
